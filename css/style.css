@@ -1,0 +1,88 @@
+h1 {
+	font-family: 'Architects Daughter';
+}
+
+h2,
+h3,
+h5 { 
+  font-family: 'Titillium Web';
+  font-weight: 300;
+}
+
+h4,
+h6 {
+  font-family: 'Titillium Web';
+  font-weight: 200;  
+}
+
+h1,
+h2,
+h3 {
+  color: #5e5653;
+}
+
+h2 {
+  color: #b6aba9;
+}
+
+h1,
+h4,
+h3 {
+  font-variant: small-caps;
+}
+
+h1,
+h4 {
+  text-align: right;
+}
+
+img {
+	width: 100%;
+}
+
+.col-3 img,
+.col-sm-3 img,
+.col-lg-3 img {
+  max-width: 291px;
+}
+
+.col-3 h3, h6 {
+  text-align: center;
+}
+
+.col-sm-3 {
+  text-align: center;
+}
+
+.jumbotron {
+  padding: 30px;
+  margin-bottom: 0px;
+  color: inherit;
+  background-color: #ffffff;
+}
+
+.jumbotron hr {
+  border-color: #b6aba9 -moz-use-text-color #b6aba9;
+  border-style: solid none;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  border-width: 2px 0;
+  vertical-align: middle;
+}
+
+.jumbotron img {
+	padding-bottom: 10px;
+}
+
+.col-2 img,
+.col-sm-2 img,
+.col-lg-2 img,
+.col-xs-2 img {
+   max-width: 100%;
+ }
+
+a:link,
+a:visited,
+a:hover {
+  color: #46bd7b;
+}
